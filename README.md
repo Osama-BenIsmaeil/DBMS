@@ -22,7 +22,7 @@ PostgreSQL or any compatible SQL database system.
 ##### products: Contains product details.
 ##### orders: Manages order records.
 ##### order_items: Tracks individual items in each order.
-Stored Procedures
+### Stored Procedures
 The AddOrder stored procedure in createStoredProcedure.sql:
 
 Inserts new orders.
