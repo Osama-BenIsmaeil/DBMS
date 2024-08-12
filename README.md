@@ -25,12 +25,12 @@ PostgreSQL or any compatible SQL database system.
 ### Stored Procedures
 The AddOrder stored procedure in createStoredProcedure.sql:
 
-** Inserts new orders.
-Adds items to order_items.
-Updates product stock levels.
-Triggers
+* Inserts new orders.
+* Adds items to order_items.
+* Updates product stock levels.
+### Triggers
 Implemented in createTriggerFunction.sql, the triggers:
 
-UpdateStockQuantity: Ensures stock levels are current after order item insertion.
-Usage
+* UpdateStockQuantity: Ensures stock levels are current after order item insertion.
+### Usage
 Use this database setup to explore SQL database management within an e-commerce context, focusing on the integration of procedures and triggers for data operations.
