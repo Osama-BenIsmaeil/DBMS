@@ -12,7 +12,7 @@ PostgreSQL or any compatible SQL database system.
 
 2- Execute the SQL scripts in order:
 
- psql -U your_username -d your_database -f createSchema.sql/
+ psql -U your_username -d your_database -f createSchema.sql*
  psql -U your_username -d your_database -f createStoredProcedure.sql/
  psql -U your_username -d your_database -f createTriggerFunction.sql/
 Database Schema
