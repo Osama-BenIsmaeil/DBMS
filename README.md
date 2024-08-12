@@ -1,7 +1,7 @@
 # E-Commerce Database Project
 This project provides a set of SQL scripts to set up and manage a database for an e-commerce application. The database schema is designed to handle customers, products, orders, and order items. Additionally, it includes stored procedures and triggers to facilitate data operations and maintain integrity.
 
-* Project Overview
+## Project Overview
 The e-commerce database is structured to support the core functionalities of an online shopping platform. It includes tables for managing customer information, product inventory, order processing, and itemized order details.
 
 # Getting Started
