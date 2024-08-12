@@ -4,8 +4,8 @@ This project provides a set of SQL scripts to set up and manage a database for a
 ## Project Overview
 The e-commerce database is structured to support the core functionalities of an online shopping platform. It includes tables for managing customer information, product inventory, order processing, and itemized order details.
 
-# Getting Started
-Prerequisites
+## Getting Started
+### Prerequisites
 PostgreSQL or any compatible SQL database system.
 Installation
 Clone this repository to your local machine.
