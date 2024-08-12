@@ -25,7 +25,7 @@ PostgreSQL or any compatible SQL database system.
 ### Stored Procedures
 The AddOrder stored procedure in createStoredProcedure.sql:
 
-Inserts new orders.
+** Inserts new orders.
 Adds items to order_items.
 Updates product stock levels.
 Triggers
